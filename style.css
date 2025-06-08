@@ -495,13 +495,13 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 }
 
 .mobile .info-hotspot .info-hotspot-icon-wrapper {
-  width: 50px;
-  height: 50px;
+  width: 30px;
+  height: 30px;
 }
 
 .info-hotspot .info-hotspot-icon {
-  width: 50%;
-  height: 50%;
+  width: 90%;
+  height: 90%;
   margin: 5%;
 }
 
