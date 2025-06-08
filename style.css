@@ -433,7 +433,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 /* Info hotspot */
 
 .info-hotspot {
-  line-height: 1em;
+  line-height: 1.2em;
   opacity: 0.5;
   -webkit-transition: opacity 0.2s 0.2s;
   transition: opacity 0.2s 0.2s;
@@ -495,8 +495,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 }
 
 .mobile .info-hotspot .info-hotspot-icon-wrapper {
-  width: 30px;
-  height: 30px;
+  width: 10px;
+  height: 10px;
 }
 
 .info-hotspot .info-hotspot-icon {
