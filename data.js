@@ -605,6 +605,12 @@ var APP_DATA = {
           "title": "RINGHULT",
           "text": "Cutom cut doors"
         },
+	{
+          "yaw": -0.3389885087204028,
+          "pitch": -0.044,
+          "title": "MSI Urban Ridge Bianco",
+          "text": "16\"x48\" Matte ceramic fluted tiles"
+        },
         {
           "yaw": 0.32162381334942225,
           "pitch": 0.07805111043050417,
