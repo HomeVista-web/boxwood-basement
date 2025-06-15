@@ -349,12 +349,6 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.030935356807615833,
-          "pitch": 0.11733228453375588,
-          "rotation": 0,
-          "target": "2-spare-bedroom"
-        },
-        {
           "yaw": 0.8493915732218902,
           "pitch": 0.365078550774804,
           "rotation": 0,
@@ -383,12 +377,6 @@ var APP_DATA = {
           "pitch": 0.21084200394627572,
           "rotation": 4.71238898038469,
           "target": "6-bathroom"
-        },
-        {
-          "yaw": -0.11806914275995695,
-          "pitch": 0.1776501570643454,
-          "rotation": 4.71238898038469,
-          "target": "0-entrance"
         }
       ],
       "infoHotspots": [
@@ -561,8 +549,8 @@ var APP_DATA = {
         {
           "yaw": -1.0562911460148463,
           "pitch": 0.045947938673046806,
-          "title": "ROOMMATES Clara Jean Folklore Forest",
-          "text": "Wallpaper"
+          "title": "ENHET",
+          "text": "18'x50\" Cabinets with oak effect doors"
         }
       ]
     },
