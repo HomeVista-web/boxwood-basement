@@ -607,7 +607,7 @@ var APP_DATA = {
         },
 	{
           "yaw": -0.3389885087204028,
-          "pitch": 0.154,
+          "pitch": 0.104,
           "title": "MSI Urban Ridge Bianco",
           "text": "16\"x48\" Matte ceramic fluted tiles"
         },
